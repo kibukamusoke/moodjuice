@@ -1,0 +1,40 @@
+🧠 App Idea: “MoodJuice – Sip Your Vibe Daily**”
+
+Tagline: An emotional espresso shot for your soul.
+
+⸻
+
+🪄 What it does:
+	•	Every day, you get one “emotional juice” flavor based on a combo of:
+	•	Your mood (picked via emoji)
+	•	Random world events
+	•	Your horoscope (because, why not?)
+
+Then, it generates:
+	•	A drink name (e.g., Spicy Anxiety Latte, Chill Mango Regret Smoothie)
+	•	A vibe breakdown (funny one-liner and animated blob)
+	•	A suggested activity (e.g., “Go touch grass.” “Call your mom.” “Do 10 squats and scream.”)
+	•	A custom emoji cocktail for your current mood
+
+⸻
+
+🔧 Tech Stack (for funzies & practice):
+	•	Frontend: Flutter (you already ride with it)
+	•	Backend: Supabase (quick af to set up)
+	•	Optional Extras:
+	•	AI to generate drink names (like OpenAI or even a local model for fun)
+	•	Daily notifications: “Time for your mood juice 🍹”
+
+⸻
+
+🤳 Why it’s not useless:
+	•	Helps you check in with yourself without feeling like therapy
+	•	It’s memeable
+	•	It’s shareable (you know people will post their MoodJuice on IG stories)
+	•	It’s great UX practice
+	•	Could easily turn into a social feature or even a mental health startup… 👀
+
+
+Superbase credentials: 
+url: https://glfomdsrcbdjzkfiwhro.supabase.co
+key: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImdsZm9tZHNyY2JkanprZml3aHJvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM3NTM5MTcsImV4cCI6MjA1OTMyOTkxN30.wSdpLUsxKPnGf-OroUYDRWENA1CSPBA-DGNa4WntMsQ
