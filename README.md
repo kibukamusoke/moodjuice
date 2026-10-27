@@ -40,7 +40,7 @@ MoodJuice is a Flutter application that generates a daily emotional "juice" base
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/moodjuice.git
+   git clone https://github.com/kibukamusoke/moodjuice.git
    cd moodjuice
    ```
 
